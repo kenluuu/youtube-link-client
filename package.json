@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^3.5.1",
     "axios": "^0.18.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-responsive-modal": "^3.5.1",
